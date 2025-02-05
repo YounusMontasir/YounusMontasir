@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Hi, I'm Younus Montasir, a passionate Full-Stack Web Developer with a fresh BSc in Computer Science and Engineering (CSE) under my belt. I specialize in building user-friendly, scalable, and efficient web applications.</p>
+<p align="left">Hi, I'm Younus Montasir, a passionate Full-Stack Web Developer with a fresh BSc in Computer Science and Engineering (CSE) under my belt. I specialize in building user-friendly, scalable, and efficient web applications. Beyond coding, I enjoy traveling, reading books, and fishing, which inspire creativity and help me stay balanced. I’m always excited to bring ideas to life through engaging and efficient web solutions. Feel free to connect with me to create something amazing together!</p>
 
 ###
 
